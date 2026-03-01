@@ -8,8 +8,6 @@ I build practical business systems that solve real operational problems — inve
 
 ### 🧰 Languages and Tools
 
-## 🛠️ Tech Stack
-
 ### 🐍 Data & ML
 ![Python](https://skillicons.dev/icons?i=python)
 ![Jupyter](https://skillicons.dev/icons?i=jupyter)
