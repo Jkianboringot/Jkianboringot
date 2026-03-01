@@ -62,7 +62,7 @@ I build practical business systems that solve real operational problems — inve
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
   I started coding by trying to understand why real systems break, not how to make them look good. What began as frustration with timeouts, slow queries, and messy validation logic turned into a deep focus on backend architecture and database design. Instead of chasing trends, I chose to build practical systems: inventory management, purchase workflows, order tracking, and POS foundations using Laravel, Livewire, and MySQL. Debugging performance issues pushed me to study indexing strategies, query optimization, and form handling under load. Deployment challenges led me into Docker and production-ready setups. Every obstacle forced a deeper layer of understanding. Today, I design business-focused web applications built to handle real usage, not just tutorial traffic, with the long-term goal of turning robust internal tools into scalable SaaS products.
 
 [website]: https://github.com/Jkianboringot/Portfolio
