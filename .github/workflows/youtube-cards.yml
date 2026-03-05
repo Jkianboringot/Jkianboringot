@@ -15,8 +15,6 @@ jobs:
           comment_tag_name: YOUTUBE-CARDS
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           show_duration: true
-      - run: echo "YOUTUBE_API_KEY is set"
-  if: ${{ secrets.YOUTUBE_API_KEY != '' }}
 
 
 # put your you tube here learn it probably wont be that hard hopefully
